@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://wangchuzheng.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-18T10:00:21.901Z</updated>
+    <title>Chuzheng</title>
+    <updated>2021-08-11T12:29:34.019Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://wangchuzheng.github.io"/>
     <link rel="self" href="http://wangchuzheng.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>温故而知新
+Happy Every Day！</subtitle>
     <logo>http://wangchuzheng.github.io/images/avatar.png</logo>
     <icon>http://wangchuzheng.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Chuzheng</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://wangchuzheng.github.io/post/hello-gridea/</id>
