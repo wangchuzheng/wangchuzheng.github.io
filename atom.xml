@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://wangchuzheng.github.io</id>
     <title>Chuzheng</title>
-    <updated>2021-08-12T03:23:52.027Z</updated>
+    <updated>2021-08-14T01:44:58.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://wangchuzheng.github.io"/>
     <link rel="self" href="http://wangchuzheng.github.io/atom.xml"/>
@@ -11,15 +11,6 @@ Happy Every Day！</subtitle>
     <logo>http://wangchuzheng.github.io/images/avatar.png</logo>
     <icon>http://wangchuzheng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chuzheng</rights>
-    <entry>
-        <title type="html"><![CDATA[优美的轻音乐*No.1]]></title>
-        <id>http://wangchuzheng.github.io/post/you-mei-de-qing-yin-le-no1/</id>
-        <link href="http://wangchuzheng.github.io/post/you-mei-de-qing-yin-le-no1/">
-        </link>
-        <updated>2021-08-12T03:06:06.000Z</updated>
-        <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=110 src="https://music.163.com/outchain/player?type=0&id=917184825&auto=0&height=90"></iframe>
-#轻音乐 | 治愈心情]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://wangchuzheng.github.io/post/hello-gridea/</id>
