@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://wangchuzheng.github.io</id>
     <title>Chuzheng</title>
-    <updated>2021-08-21T05:39:03.390Z</updated>
+    <updated>2021-08-21T06:55:10.772Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://wangchuzheng.github.io"/>
     <link rel="self" href="http://wangchuzheng.github.io/atom.xml"/>
@@ -17,7 +17,8 @@ Happy Every Day！</subtitle>
         <link href="http://wangchuzheng.github.io/post/chuzheng-gong-zuo-shi-zhao-ren-la/">
         </link>
         <updated>2021-08-21T05:02:22.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="请认准">请认准：</h2>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/wangchuzheng/pic@master/img/20210821145404.png" alt="" loading="lazy"></figure>
+<h2 id="请认准">请认准：</h2>
 <h3 id="chuzhengtk-为chuzheng工作室官方网站">chuzheng.tk 为Chuzheng工作室官方网站</h3>
 <h3 id="httpskada163comu4149653htm-为室主的主页也是工作室作品官方主页">https://kada.163.com/u/4149653.htm 为室主的主页，也是工作室作品官方主页</h3>
 <h3 id="716987365-为工作室官方qq群号">716987365 为工作室官方QQ群号</h3>
@@ -33,7 +34,7 @@ Happy Every Day！</subtitle>
 <h4 id="会绘图提供美术资源给程序员">会绘图，提供美术资源给程序员</h4>
 <h3 id="管理员2名已招0名">管理员2名（已招0名）</h3>
 <h4 id="帮助室主代管工作室没有要求">帮助室主代管工作室，没有要求</h4>
-<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/wangchuzheng/pic@master/img/20210821133822.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://cdn.jsdelivr.net/gh/wangchuzheng/pic@master/img/20210821133822.png" alt="" loading="lazy"></figure>
 <h2 id="成员福利">成员福利</h2>
 <h3 id="免费得到工作室某些作品的vip-key">免费得到工作室某些作品的VIP KEY*</h3>
 <h3 id="加入福利qq群获得附加福利">加入福利QQ群，获得附加福利^</h3>
