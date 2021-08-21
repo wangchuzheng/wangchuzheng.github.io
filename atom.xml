@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://wangchuzheng.github.io</id>
     <title>Chuzheng</title>
-    <updated>2021-08-14T06:13:18.587Z</updated>
+    <updated>2021-08-21T05:39:03.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="http://wangchuzheng.github.io"/>
     <link rel="self" href="http://wangchuzheng.github.io/atom.xml"/>
@@ -11,6 +11,41 @@ Happy Every Day！</subtitle>
     <logo>http://wangchuzheng.github.io/images/avatar.png</logo>
     <icon>http://wangchuzheng.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Chuzheng</rights>
+    <entry>
+        <title type="html"><![CDATA[Chuzheng工作室招人啦]]></title>
+        <id>http://wangchuzheng.github.io/post/chuzheng-gong-zuo-shi-zhao-ren-la/</id>
+        <link href="http://wangchuzheng.github.io/post/chuzheng-gong-zuo-shi-zhao-ren-la/">
+        </link>
+        <updated>2021-08-21T05:02:22.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="请认准">请认准：</h2>
+<h3 id="chuzhengtk-为chuzheng工作室官方网站">chuzheng.tk 为Chuzheng工作室官方网站</h3>
+<h3 id="httpskada163comu4149653htm-为室主的主页也是工作室作品官方主页">https://kada.163.com/u/4149653.htm 为室主的主页，也是工作室作品官方主页</h3>
+<h3 id="716987365-为工作室官方qq群号">716987365 为工作室官方QQ群号</h3>
+<h3 id="3515049201-为室主qq号">3515049201 为室主QQ号</h3>
+<h2 id="工作范围卡搭scratch3编程">工作范围：卡搭Scratch3编程</h2>
+<h2 id="招收范围喜欢此工作室的所有人部分黑名单除外">招收范围：喜欢此工作室的所有人（部分黑名单除外）</h2>
+<h2 id="招收人数">招收人数：</h2>
+<h3 id="普通员工5名已招0名">普通员工5名（已招0名）</h3>
+<h4 id="工作量不大没有任何要求">工作量不大，没有任何要求</h4>
+<h3 id="程序员3名已招0名">程序员3名（已招0名）</h3>
+<h4 id="懂得scratch编程主要工作为编写程序">懂得Scratch编程，主要工作为编写程序</h4>
+<h3 id="美术师2名已招0名">美术师2名（已招0名）</h3>
+<h4 id="会绘图提供美术资源给程序员">会绘图，提供美术资源给程序员</h4>
+<h3 id="管理员2名已招0名">管理员2名（已招0名）</h3>
+<h4 id="帮助室主代管工作室没有要求">帮助室主代管工作室，没有要求</h4>
+<figure data-type="image" tabindex="1"><img src="https://cdn.jsdelivr.net/gh/wangchuzheng/pic@master/img/20210821133822.png" alt="" loading="lazy"></figure>
+<h2 id="成员福利">成员福利</h2>
+<h3 id="免费得到工作室某些作品的vip-key">免费得到工作室某些作品的VIP KEY*</h3>
+<h3 id="加入福利qq群获得附加福利">加入福利QQ群，获得附加福利^</h3>
+<h2 id="加入方法">加入方法：</h2>
+<h3 id="在下翻评论去留言">在下翻评论去留言</h3>
+<h3 id="发送邮件到wangchuzheng666163com受理可能不及时">发送邮件到wangchuzheng666@163.com（受理可能不及时）</h3>
+<h3 id="直接加入qq群请主动发消息选定职位">直接加入QQ群（请主动发消息选定职位）</h3>
+<p>注：<br>
+*：如果有的话<br>
+^：将在加入QQ群后一段时间分享</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>http://wangchuzheng.github.io/post/hello-gridea/</id>
